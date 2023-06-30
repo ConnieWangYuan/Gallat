@@ -15,8 +15,8 @@ The code has been tested running under Python==3.8, Pytorch==1.5.0
 
 ## Citing
 If you find this work helpful to your research, please consider citing our paper:
-
-`@INPROCEEDINGS{9458919,
+```
+@INPROCEEDINGS{9458919,
   author={Wang, Yuandong and Yin, Hongzhi and Chen, Tong and Liu, Chunyang and Wang, Ben and Wo, Tianyu and Xu, Jie},
   booktitle={2021 IEEE 37th International Conference on Data Engineering (ICDE)},
   title={Gallat: A Spatiotemporal Graph Attention Network for Passenger Demand Prediction},
@@ -34,4 +34,4 @@ If you find this work helpful to your research, please consider citing our paper
   year={2021},
   publisher={ACM New York, NY}
 }
-`
+```
